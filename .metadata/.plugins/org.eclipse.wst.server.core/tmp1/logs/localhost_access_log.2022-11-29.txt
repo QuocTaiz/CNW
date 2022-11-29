@@ -1,0 +1,17 @@
+127.0.0.1 - - [29/Nov/2022:10:51:37 +0700] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:51:57 +0700] "GET /WebTimViec HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:51:59 +0700] "GET /WebTimViec/ HTTP/1.1" 200 9348
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/css/custom.css HTTP/1.1" 200 53
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/css/app.min.css HTTP/1.1" 200 174368
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/css/thejobs.css HTTP/1.1" 200 56561
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/img/logo-defaul.png HTTP/1.1" 404 810
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/img/logo-alt.png HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/img/logo.png HTTP/1.1" 200 3514
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/js/app.min.js HTTP/1.1" 200 209993
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/js/thejobs.js HTTP/1.1" 200 7215
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/js/custom.js HTTP/1.1" 200 1431
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/img/thaoluan.jpg HTTP/1.1" 200 2684057
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/fonts/themify.woff?-fvbane HTTP/1.1" 200 56108
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:00 +0700] "GET /WebTimViec/view/assets/fonts/fontawesome-webfont.woff2?v=4.5.0 HTTP/1.1" 200 66624
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:02 +0700] "GET /WebTimViec/apple-touch-icon.png HTTP/1.1" 404 787
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:10:52:02 +0700] "GET /WebTimViec/view/assets/img/favicon.ico HTTP/1.1" 200 16958
